@@ -1,0 +1,51 @@
+22:42:43.983 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:42:44.015 [main] INFO  RestAPI.Searchplace_apiTest - ibis Sydney Darling Harbour
+22:42:44.047 [main] INFO  RestAPI.Searchplace_apiTest - Novotel Sydney on Darling Harbour
+22:42:44.063 [main] INFO  RestAPI.Searchplace_apiTest - Oaks Goldsbrough Apartments
+22:42:44.083 [main] INFO  RestAPI.Searchplace_apiTest - The Grace Hotel
+22:42:44.107 [main] INFO  RestAPI.Searchplace_apiTest - QT Sydney
+22:42:44.127 [main] INFO  RestAPI.Searchplace_apiTest - The Sebel Quay West Suites Sydney
+22:42:44.147 [main] INFO  RestAPI.Searchplace_apiTest - Fraser Suites Sydney
+22:42:44.167 [main] INFO  RestAPI.Searchplace_apiTest - Four Seasons Sydney
+22:42:44.183 [main] INFO  RestAPI.Searchplace_apiTest - PARKROYAL Darling Harbour
+22:42:44.195 [main] INFO  RestAPI.Searchplace_apiTest - Radisson Hotel and Suites Sydney
+22:42:44.207 [main] INFO  RestAPI.Searchplace_apiTest - Sydney Harbour YHA - The Rocks
+22:42:44.227 [main] INFO  RestAPI.Searchplace_apiTest - Amora Hotel Jamison Sydney
+22:42:44.243 [main] INFO  RestAPI.Searchplace_apiTest - The Little Snail Restaurant
+22:42:44.271 [main] INFO  RestAPI.Searchplace_apiTest - Adina Apartment Hotel Sydney Darling Harbour
+22:42:44.275 [main] INFO  RestAPI.Searchplace_apiTest - Hotel Swissôtel Sydney
+22:42:44.283 [main] INFO  RestAPI.Searchplace_apiTest - The Star Grand Residences (formerly Astral Residences)
+22:42:44.291 [main] INFO  RestAPI.Searchplace_apiTest - Harbour Rocks Hotel Sydney - MGallery by Sofitel
+22:42:44.299 [main] INFO  RestAPI.Searchplace_apiTest - Sofitel Sydney Wentworth
+22:42:44.307 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:42:44.307 [main] INFO  RestAPI.Searchplace_apiTest - 20
+22:43:41.570 [main] INFO  RestAPI.adddeleteplacexmlTest - Starting testhttp://216.10.245.166
+22:43:41.926 [main] INFO  RestAPI.AddplaceTest - Starting test
+22:43:43.114 [main] INFO  RestAPI.DeleteplaceTest - Starting test
+22:43:43.222 [main] INFO  RestAPI.DeleteplaceTest - added place 
+22:43:43.234 [main] INFO  RestAPI.DeleteplaceTest - 7bd9ec743565a5147ee8058cd55f3494
+22:43:43.382 [main] INFO  RestAPI.DeleteplaceTest - deleted place 
+22:43:43.382 [main] INFO  RestAPI.Searchplace_apiTest - Search place  https://maps.googleapis.com
+22:43:44.556 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:43:44.560 [main] INFO  RestAPI.Searchplace_apiTest - ibis Sydney Darling Harbour
+22:43:44.568 [main] INFO  RestAPI.Searchplace_apiTest - Novotel Sydney on Darling Harbour
+22:43:44.576 [main] INFO  RestAPI.Searchplace_apiTest - Oaks Goldsbrough Apartments
+22:43:44.584 [main] INFO  RestAPI.Searchplace_apiTest - The Grace Hotel
+22:43:44.588 [main] INFO  RestAPI.Searchplace_apiTest - QT Sydney
+22:43:44.596 [main] INFO  RestAPI.Searchplace_apiTest - The Sebel Quay West Suites Sydney
+22:43:44.604 [main] INFO  RestAPI.Searchplace_apiTest - Fraser Suites Sydney
+22:43:44.608 [main] INFO  RestAPI.Searchplace_apiTest - Four Seasons Sydney
+22:43:44.616 [main] INFO  RestAPI.Searchplace_apiTest - PARKROYAL Darling Harbour
+22:43:44.624 [main] INFO  RestAPI.Searchplace_apiTest - Radisson Hotel and Suites Sydney
+22:43:44.628 [main] INFO  RestAPI.Searchplace_apiTest - Sydney Harbour YHA - The Rocks
+22:43:44.636 [main] INFO  RestAPI.Searchplace_apiTest - Amora Hotel Jamison Sydney
+22:43:44.644 [main] INFO  RestAPI.Searchplace_apiTest - The Little Snail Restaurant
+22:43:44.648 [main] INFO  RestAPI.Searchplace_apiTest - Adina Apartment Hotel Sydney Darling Harbour
+22:43:44.656 [main] INFO  RestAPI.Searchplace_apiTest - Hotel Swissôtel Sydney
+22:43:44.660 [main] INFO  RestAPI.Searchplace_apiTest - The Star Grand Residences (formerly Astral Residences)
+22:43:44.668 [main] INFO  RestAPI.Searchplace_apiTest - Harbour Rocks Hotel Sydney - MGallery by Sofitel
+22:43:44.672 [main] INFO  RestAPI.Searchplace_apiTest - Sofitel Sydney Wentworth
+22:43:44.680 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:43:44.680 [main] INFO  RestAPI.Searchplace_apiTest - 20
+22:44:43.525 [main] INFO  RestAPI.adddeleteplacexmlTest - Starting testhttp://216.10.245.166
+22:44:44.969 [main] INFO  RestAPI.adddeleteplacexmlTest - 5c5e5dca7fb38c9b501322137cf1ae6e

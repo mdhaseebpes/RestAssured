@@ -1,0 +1,62 @@
+22:32:56.352 [main] INFO  RestAPI.DeleteplaceTest - Starting test
+22:32:56.472 [main] INFO  RestAPI.DeleteplaceTest - added place 
+22:32:56.480 [main] INFO  RestAPI.DeleteplaceTest - 2b2e9a4075a7e8044ed2aac74b591ca6
+22:32:56.656 [main] INFO  RestAPI.DeleteplaceTest - deleted place 
+22:32:56.660 [main] INFO  RestAPI.Searchplace_apiTest - Search place  https://maps.googleapis.com
+22:32:57.747 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:32:57.755 [main] INFO  RestAPI.Searchplace_apiTest - ibis Sydney Darling Harbour
+22:32:57.763 [main] INFO  RestAPI.Searchplace_apiTest - Novotel Sydney on Darling Harbour
+22:32:57.767 [main] INFO  RestAPI.Searchplace_apiTest - Oaks Goldsbrough Apartments
+22:32:57.775 [main] INFO  RestAPI.Searchplace_apiTest - The Grace Hotel
+22:32:57.783 [main] INFO  RestAPI.Searchplace_apiTest - QT Sydney
+22:32:57.787 [main] INFO  RestAPI.Searchplace_apiTest - The Sebel Quay West Suites Sydney
+22:32:57.795 [main] INFO  RestAPI.Searchplace_apiTest - Fraser Suites Sydney
+22:32:57.799 [main] INFO  RestAPI.Searchplace_apiTest - Four Seasons Sydney
+22:32:57.807 [main] INFO  RestAPI.Searchplace_apiTest - PARKROYAL Darling Harbour
+22:32:57.811 [main] INFO  RestAPI.Searchplace_apiTest - Radisson Hotel and Suites Sydney
+22:32:57.819 [main] INFO  RestAPI.Searchplace_apiTest - Sydney Harbour YHA - The Rocks
+22:32:57.827 [main] INFO  RestAPI.Searchplace_apiTest - Amora Hotel Jamison Sydney
+22:32:57.835 [main] INFO  RestAPI.Searchplace_apiTest - The Little Snail Restaurant
+22:32:57.839 [main] INFO  RestAPI.Searchplace_apiTest - Adina Apartment Hotel Sydney Darling Harbour
+22:32:57.847 [main] INFO  RestAPI.Searchplace_apiTest - Hotel Swissôtel Sydney
+22:32:57.851 [main] INFO  RestAPI.Searchplace_apiTest - The Star Grand Residences (formerly Astral Residences)
+22:32:57.859 [main] INFO  RestAPI.Searchplace_apiTest - Harbour Rocks Hotel Sydney - MGallery by Sofitel
+22:32:57.863 [main] INFO  RestAPI.Searchplace_apiTest - Sofitel Sydney Wentworth
+22:32:57.871 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:32:57.871 [main] INFO  RestAPI.Searchplace_apiTest - 20
+22:34:45.429 [main] INFO  RestAPI.adddeleteplacexmlTest - Starting testhttp://216.10.245.166
+22:34:46.848 [main] INFO  RestAPI.adddeleteplacexmlTest - 84eed29f462858e2e19f1a8c8c6fd68a
+22:34:46.852 [main] INFO  RestAPI.AddplaceTest - Starting test
+22:34:47.144 [main] INFO  RestAPI.DeleteplaceTest - Starting test
+22:34:47.248 [main] INFO  RestAPI.DeleteplaceTest - added place 
+22:34:47.260 [main] INFO  RestAPI.DeleteplaceTest - 3e445c80f506e881dfc1ef43332b8d05
+22:34:47.416 [main] INFO  RestAPI.DeleteplaceTest - deleted place 
+22:34:47.420 [main] INFO  RestAPI.Searchplace_apiTest - Search place  https://maps.googleapis.com
+22:34:48.435 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:34:48.443 [main] INFO  RestAPI.Searchplace_apiTest - ibis Sydney Darling Harbour
+22:34:48.447 [main] INFO  RestAPI.Searchplace_apiTest - Novotel Sydney on Darling Harbour
+22:34:48.455 [main] INFO  RestAPI.Searchplace_apiTest - Oaks Goldsbrough Apartments
+22:34:48.463 [main] INFO  RestAPI.Searchplace_apiTest - The Grace Hotel
+22:34:48.467 [main] INFO  RestAPI.Searchplace_apiTest - QT Sydney
+22:34:48.475 [main] INFO  RestAPI.Searchplace_apiTest - The Sebel Quay West Suites Sydney
+22:34:48.479 [main] INFO  RestAPI.Searchplace_apiTest - Fraser Suites Sydney
+22:34:48.487 [main] INFO  RestAPI.Searchplace_apiTest - Four Seasons Sydney
+22:34:48.491 [main] INFO  RestAPI.Searchplace_apiTest - PARKROYAL Darling Harbour
+22:34:48.499 [main] INFO  RestAPI.Searchplace_apiTest - Radisson Hotel and Suites Sydney
+22:34:48.507 [main] INFO  RestAPI.Searchplace_apiTest - Sydney Harbour YHA - The Rocks
+22:34:48.515 [main] INFO  RestAPI.Searchplace_apiTest - Amora Hotel Jamison Sydney
+22:34:48.519 [main] INFO  RestAPI.Searchplace_apiTest - The Little Snail Restaurant
+22:34:48.527 [main] INFO  RestAPI.Searchplace_apiTest - Adina Apartment Hotel Sydney Darling Harbour
+22:34:48.535 [main] INFO  RestAPI.Searchplace_apiTest - Hotel Swissôtel Sydney
+22:34:48.539 [main] INFO  RestAPI.Searchplace_apiTest - The Star Grand Residences (formerly Astral Residences)
+22:34:48.547 [main] INFO  RestAPI.Searchplace_apiTest - Harbour Rocks Hotel Sydney - MGallery by Sofitel
+22:34:48.555 [main] INFO  RestAPI.Searchplace_apiTest - Sofitel Sydney Wentworth
+22:34:48.559 [main] INFO  RestAPI.Searchplace_apiTest - Sydney
+22:34:48.563 [main] INFO  RestAPI.Searchplace_apiTest - 20
+22:42:40.491 [main] INFO  RestAPI.adddeleteplacexmlTest - Starting testhttp://216.10.245.166
+22:42:40.963 [main] INFO  RestAPI.AddplaceTest - Starting test
+22:42:42.219 [main] INFO  RestAPI.DeleteplaceTest - Starting test
+22:42:42.343 [main] INFO  RestAPI.DeleteplaceTest - added place 
+22:42:42.359 [main] INFO  RestAPI.DeleteplaceTest - f5ebb4dfa712ddcd806c9d37b487d68f
+22:42:42.507 [main] INFO  RestAPI.DeleteplaceTest - deleted place 
+22:42:42.507 [main] INFO  RestAPI.Searchplace_apiTest - Search place  https://maps.googleapis.com

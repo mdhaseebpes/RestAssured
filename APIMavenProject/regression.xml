@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="Reporting.ExtentReporterNG" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="RestAPI.SeleniumTest">
+				<methods>
+					<include name="Browser" />
+					<include name="elementsUI" />
+				</methods>
+			</class>
+			<class name="RestAPI.adddeleteplacexmlTest" />
+			<class name="RestAPI.AddplaceTest" />
+			<class name="RestAPI.DeleteplaceTest" />
+			<class name="RestAPI.Searchplace_apiTest" />
+			<class name="RestAPI.APITest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

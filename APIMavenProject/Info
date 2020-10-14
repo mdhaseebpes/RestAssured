@@ -1,0 +1,5 @@
+Global Environment variables, Payload and Request Path -- all should have seperate files/classes
+Thinks which are common to all test cases - Global environment variables
+Every test having its own request and that cannot be globalized for every test - Request path
+Every test having its own body and different for each test - Payload
+
